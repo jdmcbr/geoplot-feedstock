@@ -9,7 +9,7 @@ package:
 source:
   fn: {{ name }}-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/g/geoplot/geoplot-{{ version }}.tar.gz
-  md5: 77231ccf7df3f388af627a1c4a978445
+  md5: 54ea09761a585756084d947d7e7b53d9
 
 build:
   script: python setup.py install --single-version-externally-managed --record=record.txt
