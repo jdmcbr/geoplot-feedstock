@@ -1,6 +1,6 @@
 {% set name = "geoplot" %}
-{% set version = "0.0.3" %}
-{% set md5 = "4c27bfaf5da2bcb75623bba3a9539ad5" %}
+{% set version = "0.0.4" %}
+{% set md5 = "54ea09761a585756084d947d7e7b53d9" %}
 
 package:
   name: {{ name|lower }}
