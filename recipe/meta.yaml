@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/g/geoplot/geoplot-{{ version }}.tar.gz
-  sha256: 7c10354efcc7283890609b48d659ccd4ef39ab7db40060b374938497a74c7bde
+  sha256: ebd79384c52569349edbeb85c0d7ed0dade8586c90cd8194c6c45d9f18017e37
 
 build:
   number: 0
